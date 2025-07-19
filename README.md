@@ -26,6 +26,38 @@ This repository is a portfolio showcase, featuring a live demo of the MVP.
 
 ![Audience Alignment Screenshot](public/screenshots/date-optimisation.png)
 
+## Project Architecture
+
+The repository follows a modular Next.js structure with a clear separation of concerns:
+
+venue-iq/
+├── public/
+│   ├── data/
+│   │   └── demand-data.json      # Mock ticketing and demand data
+│   └── [various SVG files]       # Public assets
+├── src/
+│   ├── app/
+│   │   ├── audience-alignment/   # Audience alignment feature
+│   │   │   └── page.tsx
+│   │   ├── audience-clusters/    # Audience clustering feature
+│   │   │   └── page.tsx
+│   │   ├── globals.css           # Global styles
+│   │   ├── layout.tsx            # App layout
+│   │   └── page.tsx              # Entry page
+│   ├── components/               # Shared UI and feature components
+│   │   ├── [content/header components]
+│   │   └── ui/                   # Reusable UI primitives
+│   │       ├── button.tsx
+│   │       └── select.tsx
+│   ├── lib/
+│   │   └── utils.ts              # Utility functions
+│   └── styles/
+│       └── design-system.css     # Design system styling
+├── package.json                  # Project dependencies
+├── tsconfig.json                 # TypeScript configuration
+├── next.config.ts                # Next.js configuration
+└── [other config files]
+
 ## Tech Stack
   - Framework: Next.js 15 with React 19
   - Styling: TailwindCSS with custom design system
