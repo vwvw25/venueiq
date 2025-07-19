@@ -30,6 +30,7 @@ This repository is a portfolio showcase, featuring a live demo of the MVP.
 
 The repository follows a modular Next.js structure with a clear separation of concerns:
 
+```
 venue-iq/
   ├── public/
   │   ├── data/
@@ -55,6 +56,7 @@ venue-iq/
   ├── package.json
   ├── tsconfig.json
   └── next.config.ts
+```
 
 ## Tech Stack
   - Framework: Next.js 15 with React 19
