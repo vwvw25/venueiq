@@ -16,15 +16,7 @@ This repository is a portfolio showcase, featuring a live demo of the MVP.
 
 ### Date Optimisation
 
-![Date Optimisation Screenshot](public/screenshots/date-optimisation.png)
-
-### Audience Clusters
-
-![Audience Clusters Screenshot](public/screenshots/date-optimisation.png)
-
-### Audience Alignment
-
-![Audience Alignment Screenshot](public/screenshots/date-optimisation.png)
+![Date Optimisation Screenshot](screenshots/Screenshot 2025-07-21 at 02.37.10.png)
 
 ## Project Architecture
 
