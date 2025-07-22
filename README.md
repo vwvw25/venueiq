@@ -16,15 +16,15 @@ This repository is a portfolio showcase, featuring a live demo of the MVP.
 
 ### Date Optimisation
 
-[Date Optimisation Screenshot](screenshots/Screenshot 2025-07-22 at 01.05.16.png)
+[Date Optimisation Screenshot](https://github.com/vwvw25/venueiq/blob/f7819bdf1aef27483898dd309aec47be9439ab8f/screenshots/Screenshot%202025-07-22%20at%2001.05.16.png)
 
 ### Audience Clusters
 
-[Audience Clusters](screenshots/Screenshot 2025-07-22 at 01.06.38.png)
+[Audience Clusters](https://github.com/vwvw25/venueiq/blob/f7819bdf1aef27483898dd309aec47be9439ab8f/screenshots/Screenshot%202025-07-22%20at%2001.06.38.png)
 
 ### Audience Alignment
 
-[Audience Alignment](screenshots/Screenshot 2025-07-22 at 01.06.21.png)
+[Audience Alignment](https://github.com/vwvw25/venueiq/blob/c67bdc206fe4b9db8bbc5f9ea9b19b5b0d686989/screenshots/Screenshot%202025-07-22%20at%2001.06.21.png)
 
 ## Project Architecture
 
