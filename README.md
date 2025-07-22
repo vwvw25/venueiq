@@ -16,15 +16,15 @@ This repository is a portfolio showcase, featuring a live demo of the MVP.
 
 ### Date Optimisation
 
-![Date Optimisation Screenshot](screenshots/Screenshot 2025-07-22 at 01.05.16.png)
+[Date Optimisation Screenshot](screenshots/Screenshot 2025-07-22 at 01.05.16.png)
 
 ### Audience Clusters
 
-![Audience Clusters](screenshots/Screenshot 2025-07-22 at 01.06.38.png)
+[Audience Clusters](screenshots/Screenshot 2025-07-22 at 01.06.38.png)
 
 ### Audience Alignment
 
-![Audience Alignment](screenshots/Screenshot 2025-07-22 at 01.06.21.png)
+[Audience Alignment](screenshots/Screenshot 2025-07-22 at 01.06.21.png)
 
 ## Project Architecture
 
